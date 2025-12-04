@@ -1,0 +1,377 @@
+{
+  "game": {
+    "single": [
+      {
+        "category": "Logic & Arguments",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "(1) If X, then Y. (2) X. Therefore Y.",
+            "solution": "What is Modus Ponens?"
+          },
+          {
+            "value": 400,
+            "clue": "Rewriting prose into explicit premises and a conclusion is called this.",
+            "solution": "What is formalizing (or reconstructing) an argument?"
+          },
+          {
+            "value": 600,
+            "clue": "Giving an opponent’s view its strongest reading is known as this dialectical norm.",
+            "solution": "What is the Principle of Charity?"
+          },
+          {
+            "value": 800,
+            "clue": "The soundness of an argument has these two components.",
+            "solution": "What are validity and true premises?"
+          },
+          {
+            "value": 1000,
+            "clue": "The three strategies for responding to objections (as well as next steps in a dialectic).",
+            "solution": "What are incorrect supposition, accommodate, and partners-in-crime?"
+          }
+        ]
+      },
+      {
+        "category": "Skepticism",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "Descartes’ Method of Doubt reaches its highest form via this sinister scenario.",
+            "solution": "What is the evil demon (test)?"
+          },
+          {
+            "value": 400,
+            "clue": "In Med. 2: The two truths Descartes believes he can be certain of, even under extreme doubt.",
+            "solution": "What are 'I exist' and 'I exist as a thinking thing'?"
+          },
+          {
+            "value": 600,
+            "clue": "In Enquiry sec. 4, Hume argues we lack a rational justification for this everyday practice that projects past regularities into the future.",
+            "solution": "What is induction?"
+          },
+          {
+            "value": 800,
+            "clue": "Hume divides all truths into thse two categories.",
+            "solution": "What are 'Relations of Ideas' and 'Matters of Fact'."
+          },
+          {
+            "value": 1000,
+            "clue": "Moore claims that he can know this without being able to prove it.",
+            "solution": "What is 'Here is one hand (and here's another)'?"
+          }
+        ]
+      },
+      {
+        "category": "Gettier",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "In the traditional analysis of knowledge, 'JTB' stands for this",
+            "solution": "What is justified true belief?"
+          },
+          {
+            "value": 400,
+            "clue": "In Gettier's first case, Smith and Jones are in competition for this.",
+            "solution": "What is a job?"
+          },
+          {
+            "value": 600,
+            "clue": "The number of coins Smith didn't realize were in his pocket.",
+            "solution": "What is 10?",
+             "dailyDouble": true
+          },
+          {
+            "value": 800,
+            "clue": "In Gettier's second case, Smith has good evidence that 'Jones owns a Ford,' but the truth of his belief comes from Brown's location in this city.",
+            "solution": "What is Barcelona?"
+          },
+          {
+            "value": 1000,
+            "clue": "Gettier’s counterexamples show the JTB analysis of knowledge cannot be true because it lacks this logical property.",
+            "solution": "What is sufficiency?"
+          }
+        ]
+      },
+      {
+        "category": "Mind–Body",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "Descartes argues the mind and body are distinct because the mind has these properties essentially.",
+            "solution": "What are thinking and non-extension?"
+          },
+          {
+            "value": 400,
+            "clue": "A classic objection: if the mind has no physical properties, this kind of two-way influence seems mysterious.",
+            "solution": "What is the (causal) interaction problem?"
+          },
+          {
+            "value": 600,
+            "clue": "Armstrong argues for this overarching view about what mental states are.",
+            "solution": "What is Materialism (Physicalism)?"
+          },
+          {
+            "value": 800,
+            "clue": "Armstrong targets this rival view that analyzes mental states as mere patterns of outward behavior.",
+            "solution": "What is Behaviorism?"
+          },
+          {
+            "value": 1000,
+            "clue": "The contemporary name for the view that mental states are whatever causes behavior.",
+            "solution": "What is Functionalism?"
+          }
+        ]
+      },
+      {
+        "category": "There's Something About Mary",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "The knowledge argument challenges this theory.",
+            "solution": "What is Physicalism?"
+          },
+          {
+            "value": 400,
+            "clue": "What Jackson says Mary is lacking in the black-and-white room.",
+            "solution": "What is knowing what it's like (knowledge)?"
+          },
+          {
+            "value": 600,
+            "clue": "What Lewis says Mary learned, instead of a new fact.",
+            "solution": "What is an ability?"
+          },
+          {
+            "value": 800,
+            "clue": "The term Jackson and Lewis use for the 'what it's like' aspect of conscious experience.",
+            "solution": "What is Qualia?"
+          },
+          {
+            "value": 1000,
+            "clue": "Jackson insists the Knowledge Arguent is not about this mental ability.",
+            "solution": "What is imagination?"
+          }
+        ]
+      },
+      {
+        "category": "Free Will & Moral Responsibility",
+        "clues": [
+          {
+            "value": 200,
+            "clue": "The theory that says free will and determinism can coexist.",
+            "solution": "What is Compatibilism?"
+          },
+          {
+            "value": 400,
+            "clue": "What Frankfurt is most specifically trying to show with the Jones-4 case.",
+            "solution": "What is 'the Principle of Alternate Possibilities is false'?"
+          },
+            {
+            "value": 600,
+
+              "clue": "The Principle of Alternate Possibilities says this.",
+            "solution": "What is 'A person is morally responsible only if they could have done otherwise'?"
+          },
+          {
+            "value": 800,
+          "clue": "Van Inwagen's No Choice Principle says this.",
+            "solution": "What is: If no one has any choice about 'if p, then q' and no one has any choice about 'p', then no one has any choice about 'q'?"
+          },
+          {
+            "value": 1000,
+            "clue": "Nelkin's Rational Abilities View says that one needs the ability to do otherwise only if one meets this condition.",
+            "solution": "What is 'failing to respond to the right reasons'?"
+          }
+        ]
+      }
+    ],
+    "double": [
+      {
+        "category": "Characters from Trolley Cases",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "The name of the Trolley Driver.",
+            "solution": "Who is Edward?"
+          },
+          {
+            "value": 800,
+            "clue": "The name of the bystander who pushes the large man off the bridge.",
+            "solution": "Who is George?"
+          },
+          {
+            "value": 1200,
+            "clue": "The name of the tourist who is offered the role of executioner in Graham's 'Swedes' case.",
+            "solution": "Who is Chen?"
+          },
+          {
+            "value": 1600,
+            "clue": "The name of the President who blows up Worcester to save New York.",
+            "solution": "Who is Irving?"
+          },
+          {
+            "value": 2000,
+            "clue": "The name of the diagnostician who can save five by initiaing a peculiar physiological process resuling in the death of one.",
+            "solution": "Who is Donald?"
+          }
+        ]
+      },
+      {
+        "category": "Objections from Readings",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "The author who considered the objection that their proof assumes the truth of its conclusion.",
+            "solution": "Who is Moore?"
+          },
+          {
+            "value": 800,
+            "clue": "The author who objected to Agent Causation by saying it solves a mystery with another mystery.",
+            "solution": "Who is van Inwagen?"
+          },
+          {
+            "value": 1200,
+            "clue": "Nelkin introduces the Rosa case in reply to the charge that her view has this morally dubious property.",
+            "solution": "What is unfairness?"
+          },
+          {
+            "value": 1600,
+            "clue": "In Enquiry 7.1 Hume responds to the objection that we get our idea of causal powers from this familiar source.",
+            "solution": "What is the operation of the will (volition)?"
+          },
+          {
+            "value": 2000,
+            "clue": "Jackson responds to Lewis's Ability Reply by imagining that Mary becomes skeptical about the existence of this.",
+            "solution": "What are other minds?"
+          }
+        ]
+      },
+      {
+        "category": "Non-Thomson Examples",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "Lewis introduces the concept of 'knowing what it's like' using this antipodean condiment.",
+            "solution": "What is Vegemite?"
+          },
+          {
+            "value": 800,
+            "clue": "Descartes claims that objects are better known by the understanding than the senses in an argument featuring this substance.",
+            "solution": "What is Wax?"
+          },
+          {
+            "value": 1200,
+            "clue": "The nefarious character from Frankfurt's Jones-4 case.",
+            "solution": "Who is Black?"
+          },
+          {
+            "value": 1600,
+            "clue": "Armstrong considers an objection to the idea that mental states cause behavior built around the example of this.",
+            "solution": "What is zoning out while driving?"
+          },
+          {
+            "value": 2000,
+            "clue": "To illustrate the Mystery of Indeterminism, van Inwagen introduces Jane, who is deciding whether to do this.",
+            "solution": "What is tell the truth (or stay silent)?"
+          }
+        ]
+      },
+      {
+        "category": "Mind-Body Strikes Again",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "In Descartes’s Med. 6, what specifically is his conclusion about the relationship between mind and body?",
+            "solution": "What is that they are distinct substances (things)?"
+          },
+          {
+            "value": 800,
+            "clue": "This disposessed member of the European peerage was an early proponent of the causal interaction objection to Descartes.",
+            "solution": "Who is Princess Elisabeth of Bohemia?"
+          },
+          {
+            "value": 1200,
+            "clue": "Descartes speculated that the site of mind-body causal interaction was this structure in the brain.",
+            "solution": "What is the Pineal Gland?",
+            "dailyDouble": true
+          },
+          {
+            "value": 1600,
+            "clue": "Where Ryle thought dispositions were merely facts about how things tend to behave, Armstrong thinks they are this.",
+            "solution": "What are inner states of things (that explain behavior)?"
+          },
+          {
+            "value": 2000,
+            "clue": "Lewis supports his Ability Reply to Jackson by likening the mind to this household object.",
+            "solution": "What is a clock radio?"
+          }
+        ]
+      },
+      {
+        "category": "Dialectical Moves from Class",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "Because all truths of reasoning are suspect under the demon test, we said Descartes may not be first-personally licensed to conclude this.",
+            "solution": "What is 'I exist (as a thinking thing)'?"
+          },
+          {
+            "value": 800,
+            "clue": "Although the premise does differ from the conclusion, we noted Moore's proof may still be illegitimate if it does this.",
+            "solution": "What is Begs the Question (premises assume conclusion)?",
+            "dailyDouble": true
+          },
+          {
+            "value": 1200,
+            "clue": "For Descartes to play the 'partners in crime' strategy against the interaction objection, he would need to say this.",
+            "solution": "What is 'No theory of mind has an adequate answer to the problem of mental causation (mind-body interaction)'?"
+          },
+          {
+            "value": 1600,
+            "clue": "If Armstrong commits to his claim that consciousness is a self-scanning mechanism of the brain, he may be giving up on this essential feature of his theory.",
+            "solution": "What is Functionalism (mental states are the causes of behavior)?"
+          },
+          {
+            "value": 2000,
+            "clue": "Frankfurt's Jones-4 case may not constitute a good argument for Compatibilism because it appears to assume this.",
+            "solution": "What is 'Jones could have done otherwise in making the decision to act'?"
+          }
+        ]
+      },
+      {
+        "category": "Intuitions",
+        "clues": [
+          {
+            "value": 400,
+            "clue": "People who have the intuition that free will is an illusion are called this.",
+            "solution": "What are Hard Determinists?"
+          },
+          {
+            "value": 800,
+            "clue": "The example evaluation of the Frame the Drifter argument makes this judgment about the premise that 'aggregate happiness is the only thing that matters morally'.",
+            "solution": "What is 'That it is (intuitively) false'?"
+          },
+          {
+            "value": 1200,
+            "clue": "Philosophers who defend the idea that the operation of the mind is the foundation of knowledge (rather than the senses) are known as this.",
+            "solution": "What are Rationalists?"
+          },
+          {
+            "value": 1600,
+            "clue": "According to survey data from the University of Michigan and elsewhere, 80% of people agree with this vehicular intuition.",
+            "solution": "What is 'It's permissible for a bystander to turn the trolley'?"
+          },
+          {
+            "value": 2000,
+            "clue": "Native speakers of East Asian languages have a stronger tendency than others to disagree with Gettier about this intuition.",
+            "solution": "What is 'That Smith doesn't have knowledge'?"
+          }
+        ]
+      }
+    ],
+    "final": {
+      "category": "Crucial Assumptions",
+      "clue": "This is one of the two assumptions required to make Gettier's counterexamples work.",
+      "solution": "What is 'you can be justified in believing something false' / 'if you're justified in P, and P implies Q, then you're justified in Q'?"
+    }
+  }
+}
